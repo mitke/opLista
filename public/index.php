@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
- Zdravo živo  
+ Z D R A V O
 </body>
 </html>
